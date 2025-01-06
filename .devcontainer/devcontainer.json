@@ -38,7 +38,7 @@
       },
       "extensions": [
         "dracula-theme.theme-dracula",
-        "danielra.fira-material-icon-theme",
+        "aleleba.fira-code-material-icon-theme"
       ]
     }
   }
